@@ -1,0 +1,40 @@
+<!-- views/cheque_views.xml -->
+<odoo>
+    <record id="view_cheque_form" model="ir.ui.view">
+        <field name="name">dynamic.cheque.form</field>
+        <field name="model">dynamic.cheque</field>
+        <field name="arch" type="xml">
+            <form>
+                <sheet>
+                    <group>
+                        <field name="chequebook_id"/>
+                        <field name="issue_date"/>
+                        <field name="payee_name"/>
+                        <field name="account_number"/>
+                        <field name="amount_in_words"/>
+                        <field name="invoice_id"/>
+                        <field name="payment_id"/>
+                        <field name="state"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="view_cheque_tree" model="ir.ui.view">
+        <field name="name">dynamic.cheque.tree</field>
+        <field name="model">dynamic.cheque</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="chequebook_id"/>
+                <field name="issue_date"/>
+                <field name="payee_name"/>
+                <field name="account_number"/>
+                <field name="amount_in_words"/>
+                <field name="state"/>
+            </tree>
+        </field>
+    </record>
+
+    <menuitem id="dynamic_cheque_menu" name="Cheques" parent="dynamic_bank_menu" sequence="30" action="action_cheque"/>
+</odoo>

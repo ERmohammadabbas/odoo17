@@ -1,0 +1,30 @@
+<!-- views/bank_views.xml -->
+<odoo>
+    <record id="view_bank_form" model="ir.ui.view">
+        <field name="name">dynamic.bank.form</field>
+        <field name="model">dynamic.bank</field>
+        <field name="arch" type="xml">
+            <form>
+                <sheet>
+                    <group>
+                        <field name="name"/>
+                        <field name="chequebook_ids"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="view_bank_tree" model="ir.ui.view">
+        <field name="name">dynamic.bank.tree</field>
+        <field name="model">dynamic.bank</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="name"/>
+            </tree>
+        </field>
+    </record>
+
+    <menuitem id="dynamic_bank_menu" name="Banks" sequence="10"/>
+    <menuitem id="menu_dynamic_bank" name="Banks" parent="dynamic_bank_menu" action="action_bank"/>
+</odoo>

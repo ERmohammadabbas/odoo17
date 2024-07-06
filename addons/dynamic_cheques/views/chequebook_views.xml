@@ -1,0 +1,31 @@
+<!-- views/chequebook_views.xml -->
+<odoo>
+    <record id="view_chequebook_form" model="ir.ui.view">
+        <field name="name">dynamic.chequebook.form</field>
+        <field name="model">dynamic.chequebook</field>
+        <field name="arch" type="xml">
+            <form>
+                <sheet>
+                    <group>
+                        <field name="bank_id"/>
+                        <field name="chequebook_number"/>
+                        <field name="cheque_ids"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="view_chequebook_tree" model="ir.ui.view">
+        <field name="name">dynamic.chequebook.tree</field>
+        <field name="model">dynamic.chequebook</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="bank_id"/>
+                <field name="chequebook_number"/>
+            </tree>
+        </field>
+    </record>
+
+    <menuitem id="dynamic_chequebook_menu" name="Chequebooks" parent="dynamic_bank_menu" sequence="20" action="action_chequebook"/>
+</odoo>

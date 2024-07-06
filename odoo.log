@@ -1,0 +1,100 @@
+2024-07-02 12:07:32,025 13580 INFO ? odoo: Odoo version 17.0 
+2024-07-02 12:07:32,027 13580 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-02 12:07:32,027 13580 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-02 12:07:32,027 13580 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-02 12:07:32,471 13580 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-02 12:07:33,292 13580 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-02 12:07:33,448 13580 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-02 12:07:33,523 13580 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-02 12:12:56,234 13580 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-02 12:12:56,236 13580 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 10:24:04,096 9320 INFO ? odoo: Odoo version 17.0 
+2024-07-03 10:24:04,154 9320 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 10:24:04,154 9320 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 10:24:04,155 9320 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 10:24:08,431 9320 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-03 10:24:17,634 9320 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-03 10:24:18,109 9320 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:24:18,271 9320 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:25:31,145 9320 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-03 10:25:31,146 9320 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 10:25:31,233 9320 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2024-07-03 10:25:48,841 2268 INFO ? odoo: Odoo version 17.0 
+2024-07-03 10:25:48,956 2268 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 10:25:48,956 2268 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 10:25:48,957 2268 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 10:25:52,439 2268 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-03 10:26:02,613 2268 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-03 10:26:03,217 2268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:26:03,508 2268 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:26:07,707 2268 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-03 10:26:07,708 2268 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 10:26:34,572 11816 INFO ? odoo: Odoo version 17.0 
+2024-07-03 10:26:34,572 11816 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 10:26:34,572 11816 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 10:26:34,573 11816 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 10:26:34,817 11816 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-03 10:26:35,290 11816 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-03 10:26:35,524 11816 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:26:35,719 11816 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:26:57,818 11816 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-03 10:26:57,819 11816 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 10:26:57,822 11816 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2024-07-03 10:27:02,410 7236 INFO ? odoo: Odoo version 17.0 
+2024-07-03 10:27:02,410 7236 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 10:27:02,410 7236 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 10:27:02,410 7236 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 10:27:02,642 7236 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-03 10:27:03,025 7236 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-03 10:27:03,096 7236 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:27:03,195 7236 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:27:52,543 7236 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-03 10:27:52,544 7236 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 10:27:52,594 7236 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2024-07-03 10:27:56,350 12056 INFO ? odoo: Odoo version 17.0 
+2024-07-03 10:27:56,350 12056 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 10:27:56,351 12056 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 10:27:56,351 12056 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 10:27:56,583 12056 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-03 10:27:56,943 12056 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-03 10:27:57,023 12056 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:27:57,114 12056 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:33:46,585 12056 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-03 10:33:46,587 12056 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 10:33:46,892 12056 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2024-07-03 10:33:50,925 1728 INFO ? odoo: Odoo version 17.0 
+2024-07-03 10:33:50,925 1728 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 10:33:50,925 1728 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 10:33:50,925 1728 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 10:33:51,158 1728 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-03 10:33:51,643 1728 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-03 10:33:51,723 1728 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:33:51,822 1728 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:33:56,321 1728 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-03 10:33:56,323 1728 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 10:33:56,654 1728 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2024-07-03 10:34:01,552 8908 INFO ? odoo: Odoo version 17.0 
+2024-07-03 10:34:01,553 8908 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 10:34:01,553 8908 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 10:34:01,553 8908 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 10:34:01,776 8908 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-03 10:34:02,135 8908 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-03 10:34:02,210 8908 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:34:02,302 8908 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:36:24,863 8908 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-03 10:36:24,864 8908 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 10:36:29,191 2612 INFO ? odoo: Odoo version 17.0 
+2024-07-03 10:36:29,191 2612 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 10:36:29,191 2612 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 10:36:29,191 2612 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 10:36:29,415 2612 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2024-07-03 10:36:29,797 2612 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SMEM1TS:8069 
+2024-07-03 10:36:29,868 2612 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:36:29,955 2612 INFO ? odoo.sql_db: Connection to the database failed 
+2024-07-03 10:38:08,968 2612 INFO ? odoo.service.server: Initiating shutdown 
+2024-07-03 10:38:08,969 2612 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-07-03 15:51:35,627 7416 INFO ? odoo: Odoo version 17.0 
+2024-07-03 15:51:35,629 7416 INFO ? odoo: Using configuration file at C:\Users\SCH\Desktop\odoo20\odoo17\odoo.conf 
+2024-07-03 15:51:35,629 7416 INFO ? odoo: addons paths: ['C:\\Users\\SCH\\Desktop\\odoo20\\odoo17\\odoo\\addons', 'c:\\users\\sch\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\addons', 'c:\\users\\sch\\desktop\\odoo20\\odoo17\\odoo\\addons'] 
+2024-07-03 15:51:35,629 7416 INFO ? odoo: database: odoo@localhost:5432 
+2024-07-03 15:51:35,721 7416 INFO ? odoo.sql_db: Connection to the database failed 
